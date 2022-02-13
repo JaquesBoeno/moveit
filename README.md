@@ -1,34 +1,100 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![cover](./assets/cover.png)
 
-## Getting Started
+<h2 style="text-align:center;">
+ 🚧 React Select 🚀 Em construção... 🚧
+</h2>
 
-First, run the development server:
+<h3 style="text-align:center;">
+
+![languages-count](https://img.shields.io/github/languages/count/JaquesBoeno/moveit?color=blue)
+![last-commit](https://img.shields.io/github/last-commit/JaquesBoeno/moveit?color=blue)
+![last-commit](https://img.shields.io/github/repo-size/JaquesBoeno/moveit?color=blue)
+![license-mit](https://img.shields.io/badge/license-MIT-blue)
+
+</h3>
+<h1 style="display:flex; align-items:center;">
+  <img src="./assets/favicon.svg" width="32"/> <b style="margin-left: 4px;">Move.it</b>
+</h1>
+
+## **Sumário**
+
+- [Sobre](#Sobre)
+- [Como usar](#Como-usar)
+  - [Pré-Requisitos](#pré-requisitos)
+  - [Iniciar aplicação](#iniciar-aplicação)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Autor](#autor)
+- [Licença](#licença)
+
+## **Sobre**
+
+O Move.it veio para ajudar você a gerenciar seu tempo através da técnica promodoro, a cada 25 minutos ele te envia uma notificação avisando que está na hora de dar uma pausar e fazer um alongamento, com o objetivo de melhora sua saúde, tanto mental quanto física, e sua produtividade!
+
+## **Como usar**
+
+---
+
+### **Pré-requisitos**
+
+- git
+- node.js 16.14.0 lts
+- yarn ou npm
+
+### **Instalação**
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone o repositório com este comando
+$ git clone https://github.com/JaquesBoeno/moveit.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### **Iniciar aplicação**
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Entre no diretório do projeto
+$ cd moveit
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Instale as dependências
+$ yarn install ou npm install
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Inicie a aplicação
+$ yarn dev ou npm run dev
 
-## Learn More
+```
 
-To learn more about Next.js, take a look at the following resources:
+## **Tecnologias Utilizadas**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- <h3 style="display:flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/>
+    <a style="margin-left: 4px;" href="https://reactjs.org/">React</a>
+  </h3>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- <h3 style="display:flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="16"/>
+    <a style="margin-left: 4px;" href="https://reactjs.org/">Next.js</a>
+  </h3>
 
-## Deploy on Vercel
+- <h3 style="display:flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="16"/>
+    <a style="margin-left: 4px;" href="https://reactjs.org/">Typescript</a>
+  </h3>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- <h3 style="display:flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="16"/>
+    <a style="margin-left: 4px;" href="https://reactjs.org/">sass</a>
+  </h3>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## **Autor**
+
+---
+
+<br/>
+
+  <img style="border-radius:50%" src="https://github.com/JaquesBoeno.png" width="96">
+
+feito com ❤️ por Jaques Boeno! 👋🏼 Entre em contato!
+
+[![Gmail Badge](https://img.shields.io/badge/-jaquesvagnerjunior@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaquesvagnerjunior@gmail.com)](mailto:jaquesvagnerjunior@gmail.com)
+
+# **Licença**
+
+Leia o arquivo LICENSE.txt, na raiz do projeto
